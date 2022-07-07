@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Репозиторий для **pull request**
 * В своём аккаунте на GitHub создать копию репозитория **"AndreyBulgakov19
 /SCV_Git_0107"** с помощью кнопки **"Fork"**.
@@ -16,3 +17,7 @@
 ---
 * На сайте GitHub выполнить **Pull request**.
 ---
+=======
+# git_instruction
+I'll complete it later
+>>>>>>> 4379f2fcb57debcd3741673e4b702a0b74303752
